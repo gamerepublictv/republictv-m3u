@@ -1,8 +1,7 @@
-#EXTM3U
-#EXT-X-VERSION:3
+# Twitch M3U Playlist
 
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,AVERAGE-BANDWIDTH=2200000,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=30.000
-[https://video-weaver.tyo03.hls.ttvnw.net/v1/playlist/your-twitch-stream-720p.m3u8
+Repo ini berisi file `.m3u8` untuk memutar channel Twitch di aplikasi IPTV.
+Cukup ambil raw link dari file `mytwitch.m3u8` dan gunakan di aplikasi IPTV
+(OTT Navigator, IPTV Smarters, atau app Android kamu).
 
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,AVERAGE-BANDWIDTH=3500000,CODECS="avc1.640032,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=60.000
-https://video-weaver.tyo03.hls.ttvnw.net/v1/playlist/your-twitch-stream-1080p.m3u8](https://eun11.playlist.ttvnw.net/v1/playlist/CuQEZQX-qQVOSMNRr6l0L-nqMGebiTI6692wUQVGcVD9K-AAjnKSDBCjhblD76TeshInPhT0CUDUj6Bu3VmAX0XD9DiBvoBguZKMjVr6AAJtQ0gkshnDaBQlnGTrW7f6NC68aL9G93Rhr1Pl77UPZV-KyS8WZPwFa_EY4E_41mUOC8CMUwLEaOF0DvNPy38LU-G9rsdZniW8wR6mLM1FNmps4VJChgMeA7qqvQ7XuFieU2HX9q1PkRfQWzkbghPDzhZ_aGVxAGQzdJGneZOGZZL1eZ84q-QGbFLwVIUHUBvlp54NclXhYoPDdbr6ypWCi31nqwZGNE8D7wuAnIpuZuy1hTTAJugoXP-uD4PHPO9Eubws8EGHyXyVKzw_k51AJYTVq2xnq7FyzHeo0_0GlJRGI5uELJz1gg_ax20VXJRNRpoVvXVzOnFB1rl7_dq-ic8GywBMXt5V5-fq6AOwIpFc9d7A8KmEGrZIXd3QakdTyd1NYT5HqzDoAAai4mh_uypm6NA7Huy3XnNkUazEqg7w_uT8MdFE_uBziZGDZ2Uz2QnnL8a7gegvH1y6nAeCA7LQmxmdYUkQsIwf2kiqhkEGZNgQU4DHi5lVd1_OXmPxIt0RSjh6KUP-thJC-BfruM5i-nXlOZQ5ZvYxpUfDkenmUDBf9PTE6-wfitn2V7Fb9VUVJUp7paiJuMEHGYf5eLIMZHZR-q2BW2keqtvl3GVjR-5AzNZt1NX8fLDU54vcGAt35kiVFNDysV-jjYnVgoveYysl2nOdiWYjH7p6aAlIEnr-Dw6Ac_Od030i6MBiBQPsMx5YGgwvkY4-S1sBdUBmc6sgASoJZXUtd2VzdC0yMJcN.m3u8
+Contoh raw link:
